@@ -1,4 +1,4 @@
-## My world 👋
+## “BizBridge is a platform that simplifies interactions between companies and customers. We are developing innovative tools to help businesses and consumers connect faster and more conveniently.”
 
 <!--
 **MadRich888/MadRich888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
